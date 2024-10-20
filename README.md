@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello I'm billy, my current goal is to become a fullstack web developer</div>  
+### <div align="center">Hello I'am billy, my current goal is to become a fullstack web developer</div>  
   
 
 - My first goal is to become a fullstack MERN😀  
@@ -68,20 +68,11 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+
 <br />
 
 ----
