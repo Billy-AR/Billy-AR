@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello I'm billy. My current goal is to become a fullstack web developer</div>  
+### <div align="center">Hello, I'm billy. My current goal is to become a fullstack web developer</div>  
   
 
 - 🔭 My first goal is to become a fullstack NEXT JS.😀  
