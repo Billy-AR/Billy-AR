@@ -9,7 +9,7 @@
 - 🔭 My first goal is to become a fullstack NEXT JS.😀  
   
 
-- 🌱 I’m currently learning, Tailwind, and Typescript, Next JS  
+- 🌱 I’m currently learning Express js.
   
 
 - Argo❓  
