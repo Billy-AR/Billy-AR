@@ -47,6 +47,8 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px; border-radius: 50%; background-color: white; padding: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Status_iucn_EX_icon.svg" alt="Express.js" height="50" /></a>  
+  <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" height="50" /></a>
+
 </div>
 
 
