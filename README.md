@@ -15,7 +15,7 @@
 - Argo❓  
   
 
-- ⚡ Fun fact: Wat te sigma  
+- ⚡ Fun fact: Aku Suka Basso Bulat
   
 
 <br/>  
