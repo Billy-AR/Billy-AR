@@ -55,7 +55,7 @@
 |:---:|:---:|
 | **Frontend** | React • Next.js • TypeScript • Tailwind CSS |
 | **Backend** | Node.js • Express.js • MongoDB • PostgreSQL • Prisma ORM • Next.js |
-| **Tools** | Docker • Figma • Git |
+| **Tools** | Docker • Figma • Git • Vscode |
 | **Currently Learning** | Docker |
 
 </div>
