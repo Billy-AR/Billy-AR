@@ -76,7 +76,7 @@
 <div align="center">
   
   <!-- Ganti 'billy-username' dengan username GitHub kamu yang asli -->
-  ![Billy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=billy-username&show_icons=true&theme=tokyonight&hide_border=true)
+  ![Billy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Billy_AR&show_icons=true&theme=tokyonight&hide_border=true)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=billy-username&layout=compact&theme=tokyonight&hide_border=true)
   
