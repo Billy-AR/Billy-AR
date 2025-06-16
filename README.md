@@ -17,8 +17,8 @@
 ## 🎯 **Current Focus**
 
 ```
-🔭 Goal: Mastering Fullstack Next.js Development
-🌱 Learning: Express.js & Backend Architecture  
+🔭 Goal: Mastering Web development And Mobile Developmeent
+🌱 Learning: Docker & Backend Architecture  
 ⚡ Fun Fact: Wat te sigma 😄
 ```
 
