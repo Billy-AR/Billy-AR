@@ -75,9 +75,12 @@
 
 <div align="center">
   
-  ![Billy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
+  <!-- Ganti 'billy-username' dengan username GitHub kamu yang asli -->
+  ![Billy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=billy-username&show_icons=true&theme=tokyonight&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=billy-username&layout=compact&theme=tokyonight&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=billy-username&theme=tokyonight&hide_border=true)
 
 </div>
 
