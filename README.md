@@ -76,28 +76,16 @@
 <div align="center">
   
   <!-- Ganti 'billy-username' dengan username GitHub kamu yang asli -->
-  ![Billy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=billy-username&show_icons=true&theme=tokyonight&hide_border=true)
+  ![Billy's GitHub Stats](https://github-readme-stats.vercel.app/api?Billy-AR&show_icons=true&theme=tokyonight&hide_border=true)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=billy-username&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=billy-username&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?Billy-AR&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🤝 **Let's Connect**
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Billy-AR)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
-
-</div>
-
----
 
 <div align="center">
   
