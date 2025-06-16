@@ -1,67 +1,105 @@
+# <div align="center">👋 Hello, I'm Billy</div>
+
 <div align="center">
-<img src="https://64.media.tumblr.com/b011e7ee16c74dbbe65c880b6d08a67f/3ef557d02cf9c757-30/s400x600/a4cb86fa8637906c4323e5bf0e9766917d20fcb5.jpg" align="center" height="150" width="150" />
-</div>  
-  
-### <div align="center">Hello, I'm billy. My current goal is to become a fullstack web developer</div>  
-  
-- 🔭 My first goal is to become a fullstack NEXT JS.😀  
-  
-- 🌱 I'm currently learning Express js.
-  
-- Argo❓  
-  
-- ⚡ Fun fact: Wat te sigma     
-  
-<br/>  
-My Skill Set  
-
-
-<table><tr><td valign="top" width="33%">
-Frontend  
-  
-
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+  <img src="https://64.media.tumblr.com/b011e7ee16c74dbbe65c880b6d08a67f/3ef557d02cf9c757-30/s400x600/a4cb86fa8637906c4323e5bf0e9766917d20fcb5.jpg" alt="Billy's Avatar" width="120" height="120" style="border-radius: 50%; border: 3px solid #00d2ff;" />
 </div>
-</td><td valign="top" width="33%">
-Backend  
 
-
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px; border-radius: 50%; background-color: white; padding: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Status_iucn_EX_icon.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" height="50" /></a>
+<div align="center">
+  
+### 🚀 **Aspiring Fullstack Web Developer**
+  
+  *Building amazing web experiences with modern technologies*
+  
 </div>
-</td><td valign="top" width="33%">
-Tools & Design
 
+---
 
-<div align="center">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+## 🎯 **Current Focus**
+
+```
+🔭 Goal: Mastering Fullstack Next.js Development
+🌱 Learning: Express.js & Backend Architecture  
+⚡ Fun Fact: Wat te sigma 😄
+```
+
+---
+
+## 💻 **Tech Stack**
+
+<div align="center">
+
+### **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind" alt="Frontend Skills" />
+</p>
+
+### **Backend Development**  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma" alt="Backend Skills" />
+</p>
+
+### **Tools & Design**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,docker,git,vscode" alt="Tools & Design" />
+</p>
+
 </div>
-</td></tr></table>  
-<br/>  
-Connect with me  
+
+---
+
+## 📊 **Technologies I Work With**
+
+<div align="center">
   
-<br/>  
-Github Stats  
+| **Category** | **Technologies** |
+|:---:|:---:|
+| **Frontend** | React • Next.js • TypeScript • Tailwind CSS |
+| **Backend** | Node.js • Express.js • MongoDB • PostgreSQL |
+| **Tools** | Docker • Figma • Git • Prisma ORM |
+| **Currently Learning** | Express.js • Backend Architecture |
+
+</div>
+
+---
+
+## 🎨 **What I'm Building**
+
+- 🔥 Modern web applications with **Next.js**
+- 🎯 RESTful APIs with **Express.js**  
+- 📱 Responsive designs with **Tailwind CSS**
+- 🗄️ Database solutions with **MongoDB** & **PostgreSQL**
+
+---
+
+## 📈 **GitHub Stats**
+
+<div align="center">
   
-<br/>  
-Recent Blog Posts  
+  ![Billy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
   
-<br/>  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 **Let's Connect**
+
+<div align="center">
   
-<br/>  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+
+</div>
+
+---
+
+<div align="center">
   
-<br/>  
-<br />
-----
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* 
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
