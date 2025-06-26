@@ -53,7 +53,7 @@
   
 | **Category** | **Technologies** |
 |:---:|:---:|
-| **Frontend** | React • Next.js • TypeScript • Tailwind CSS |
+| **Frontend** | React • Next.js • Javascript • TypeScript • Tailwind CSS |
 | **Backend** | Node.js • Express.js • MongoDB • PostgreSQL • Prisma ORM • Next.js |
 | **DevOps** | Docker • Kubernetes |
 | **Tools** | Git • VS Code • Figma |
