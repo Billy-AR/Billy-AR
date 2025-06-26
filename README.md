@@ -1,8 +1,6 @@
-<div align="center">👋 Hello, I'm Billy</div>
 <div align="center">
-  <img src="https://64.media.tumblr.com/b011e7ee16c74dbbe65c880b6d08a67f/3ef557d02cf9c757-30/s400x600/a4cb86fa8637906c4323e5bf0e9766917d20fcb5.jpg" alt="Billy's Avatar" width="120" height="120" style="border-radius: 50%; border: 3px solid #00d2ff;" />
-</div>
-<div align="center">
+👋 Hello, I'm Billy
+<img src="https://64.media.tumblr.com/b011e7ee16c74dbbe65c880b6d08a67f/3ef557d02cf9c757-30/s400x600/a4cb86fa8637906c4323e5bf0e9766917d20fcb5.jpg" alt="Billy's Avatar" width="120" height="120" style="border-radius: 50%; border: 3px solid #00d2ff;" />
 🚀 Aspiring Fullstack Web Developer
 Building amazing web experiences with modern technologies
 </div>
