@@ -1,74 +1,50 @@
-# <div align="center">👋 Hello, I'm Billy</div>
-
+<div align="center">👋 Hello, I'm Billy</div>
 <div align="center">
   <img src="https://64.media.tumblr.com/b011e7ee16c74dbbe65c880b6d08a67f/3ef557d02cf9c757-30/s400x600/a4cb86fa8637906c4323e5bf0e9766917d20fcb5.jpg" alt="Billy's Avatar" width="120" height="120" style="border-radius: 50%; border: 3px solid #00d2ff;" />
 </div>
-
 <div align="center">
-  
-### 🚀 **Aspiring Fullstack Web Developer**
-  
-  *Building amazing web experiences with modern technologies*
-  
+🚀 Aspiring Fullstack Web Developer
+Building amazing web experiences with modern technologies
 </div>
 
----
-
-## 🎯 **Current Focus**
-
-```
-🔭 Goal: Mastering Web development And Mobile Developmeent
-🌱 Learning: Docker & Backend Architecture  
+🎯 Current Focus
+🔭 Goal: Mastering Web development And Mobile Development
+🌱 Learning: Docker & Kubernetes & Backend Architecture  
 ⚡ Fun Fact: Wat te sigma 😄
-```
 
----
-
-## 💻 **Tech Stack**
-
+💻 Tech Stack
 <div align="center">
-
-### **Frontend Development**
+Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind" alt="Frontend Skills" />
 </p>
-
-### **Backend Development**  
+Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma" alt="Backend Skills" />
 </p>
-
-### **Tools & Design**
+DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,docker,git,vscode" alt="Tools & Design" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,vscode" alt="DevOps & Tools" />
 </p>
-
+Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Design Tools" />
+</p>
 </div>
 
----
-
-## 📊 **Technologies I Work With**
-
+📊 Technologies I Work With
 <div align="center">
-  
-| **Category** | **Technologies** |
-|:---:|:---:|
-| **Frontend** | React • Next.js • TypeScript • Tailwind CSS |
-| **Backend** | Node.js • Express.js • MongoDB • PostgreSQL • Prisma ORM • Next.js |
-| **Tools** | Docker • Figma • Git • Vscode |
-| **Currently Learning** | Docker |
-
+CategoryTechnologiesFrontendReact • Next.js • TypeScript • Tailwind CSSBackendNode.js • Express.js • MongoDB • PostgreSQL • Prisma ORM • Next.jsDevOpsDocker • KubernetesToolsGit • VS Code • FigmaCurrently LearningDocker • Kubernetes
 </div>
 
----
+🎨 What I'm Building
 
-## 🎨 **What I'm Building**
-
-- 🔥 Modern web applications with **Next.js**
-- 🎯 RESTful APIs with **Express.js**  
-- 📱 Responsive designs with **Tailwind CSS**
-- 🗄️ Database solutions with **MongoDB** & **PostgreSQL**
-
+🔥 Modern web applications with Next.js
+🎯 RESTful APIs with Express.js
+📱 Responsive designs with Tailwind CSS
+🗄️ Database solutions with MongoDB & PostgreSQL
+🐳 Containerized applications with Docker
+☸️ Scalable deployments with Kubernetes
 ---
 
 ## 📈 **GitHub Stats**
