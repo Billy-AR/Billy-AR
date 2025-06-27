@@ -14,7 +14,7 @@
 
 ## 🎯 **Current Focus**
 ```
-🔭 Goal: Mastering Web development And Mobile Development
+🔭 Goal: Mastering Web development And Mobile Development And DevOps
 🌱 Learning: Docker & Kubernetes & Backend Architecture  
 ⚡ Fun Fact: Wat te sigma 😄
 ```
